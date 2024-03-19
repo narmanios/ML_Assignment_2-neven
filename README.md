@@ -1,5 +1,3 @@
-# ML_Assignment_2-neven
-
 # Final Assignment 1: Regularization Parameter Analysis
 
 ## Overview
