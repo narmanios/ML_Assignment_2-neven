@@ -1,4 +1,4 @@
-# Final Assignment 2: Regularization Parameter Analysis
+# Assignment 2: Regularization Parameter Analysis
 
 ## Overview
 In this assignment, we explore the effects of varying the regularization parameter on different performance measures and implemented in `my_measures.py`. The focus is on the `alpha` parameter of the `RidgeClassifier()` class.
